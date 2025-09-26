@@ -1,1 +1,30 @@
-(test)
+{
+  "contact_email": "scott@gsdsinc.com",
+  "contact_address": "170 Kitchawan Rd., South Salem, NY 10590",
+  "version": "1.0",
+  "sellers": [
+  {
+    "seller_id": "7f3feba8",
+    "name": "TVIQ (G)",
+    "domain": "www.tviq.io"
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "a79f79c6",
+    "name": "Fundozer (G)",
+    "domain": "www.fundozer.com"
+    "seller_type": "INTERMEDIARY"
+  },
+  {
+    "seller_id": "77fc7738",
+    "name": "Smartline (G)",
+    "seller_type": "INTERMEDIARY"
+  }, 
+  {
+    "seller_id": "a79f79c6",
+    "name": "Vandelay (G)",
+    "domain": "www.vandelay-media.com"
+    "seller_type": "INTERMEDIARY"
+  }
+ ]
+}
