@@ -30,37 +30,37 @@
   {
     "seller_id": "4c9618a8",
     "name": "Afroland",
-    "domain": www.afroland.com",
+    "domain": 'www.afroland.com",
     "seller_type": "INTERMEDIARY"
   }, 
   {
     "seller_id": "18d15ae0",
     "name": "Wurl",
-    "domain": www.wurl.com",
+    "domain": 'www.wurl.com",
     "seller_type": "BOTH"
   }, 
  {
     "seller_id": "3fad4297",
     "name": "Bright Mountain Media",
-    "domain": www.brightmountainmedia.com",
+    "domain": 'www.brightmountainmedia.com",
     "seller_type": "INTERMEDIARY"
   }, 
  {
     "seller_id": "de44313",
     "name": "Future Today",
-    "domain": www.Futuretoday.com",
+    "domain": 'www.Futuretoday.com",
     "seller_type": "Publisher"
   }, 
  {
     "seller_id": "41385b18",
     "name": "Mediapulse",
-    "domain": www.mediapulse.ca",
+    "domain": 'www.mediapulse.ca",
     "seller_type": "Publisher"
   }, 
  {
     "seller_id": "d5d82b69",
     "name": "Amagi",
-    "domain": www.amagi.com",
+    "domain": 'www.amagi.com",
     "seller_type": "Publisher"
   }, 
  ]
