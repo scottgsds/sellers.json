@@ -5,26 +5,63 @@
   "sellers": [
   {
     "seller_id": "7f3feba8",
-    "name": "TVIQ (G)",
-    "domain": "www.tviq.io"
+    "name": "TVIQ",
+    "domain": "www.tviq.io",
     "seller_type": "INTERMEDIARY"
   },
   {
     "seller_id": "a79f79c6",
-    "name": "Fundozer (G)",
-    "domain": "www.fundozer.com"
+    "name": "Fundozer",
+    "domain": "www.fundozer.com",
     "seller_type": "INTERMEDIARY"
   },
   {
     "seller_id": "77fc7738",
-    "name": "Smartline (G)",
+    "name": "Smartline TV",
+    "domain": "www.smartlinetv.com",
     "seller_type": "INTERMEDIARY"
   }, 
   {
     "seller_id": "a79f79c6",
-    "name": "Vandelay (G)",
-    "domain": "www.vandelay-media.com"
+    "name": "Vandelay Media",
+    "domain": "www.vandelay-media.com",
     "seller_type": "INTERMEDIARY"
-  }
+  },
+  {
+    "seller_id": "4c9618a8",
+    "name": "Afroland",
+    "domain": www.afroland.com",
+    "seller_type": "INTERMEDIARY"
+  }, 
+  {
+    "seller_id": "18d15ae0",
+    "name": "Wurl",
+    "domain": www.wurl.com",
+    "seller_type": "BOTH"
+  }, 
+ {
+    "seller_id": "3fad4297",
+    "name": "Bright Mountain Media",
+    "domain": www.brightmountainmedia.com",
+    "seller_type": "INTERMEDIARY"
+  }, 
+ {
+    "seller_id": "de44313",
+    "name": "Future Today",
+    "domain": www.Futuretoday.com",
+    "seller_type": "Publisher"
+  }, 
+ {
+    "seller_id": "41385b18",
+    "name": "Mediapulse",
+    "domain": www.mediapulse.ca",
+    "seller_type": "Publisher"
+  }, 
+ {
+    "seller_id": "d5d82b69",
+    "name": "Amagi",
+    "domain": www.amagi.com",
+    "seller_type": "Publisher"
+  }, 
  ]
 }
