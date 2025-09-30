@@ -63,5 +63,11 @@
     "domain": "www.amagi.com",
     "seller_type": "Publisher"
   }, 
+   {
+    "seller_id": "7625b1a9",
+    "name": "Fast TV Ltd",
+    "domain": "www.fasttvltd.com",
+    "seller_type": "Intermediary"
+  }, 
  ]
 }
