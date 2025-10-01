@@ -69,5 +69,11 @@
     "domain": "www.fasttvltd.com",
     "seller_type": "Intermediary"
   }, 
+   {
+    "seller_id": "28b193d8&",
+    "name": "Mediapulse",
+    "domain": "www.mediapulse.ca",
+    "seller_type": "Intermediary"
+  },  
  ]
 }
